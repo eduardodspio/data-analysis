@@ -25,6 +25,20 @@ def calculate(list):
     sum_rowns = [ls[[0, 1, 2]].sum(), ls[[3, 4, 5]].sum(), ls[[6, 7, 8]].sum()]
     sum_columns = [ls[[0, 3, 6]].sum(), ls[[1, 4, 7]].sum(), ls[[2, 5, 8]].sum()]
 
+
+#rowns:
+
+#ls[[0, 1, 2]] selects the elements at indices 0, 1, and 2 from the array ls. This corresponds to the first row of the array.
+#ls[[3, 4, 5]] selects the elements at indices 3, 4, and 5 from the array ls. This corresponds to the second row of the array.
+#ls[[6, 7, 8]] selects the elements at indices 6, 7, and 8 from the array ls. This corresponds to the third row of the array.
+
+#columns:
+
+#ls[[0, 3, 6]] selects the elements at indices 0, 3, and 6 from the array ls. This corresponds to the first column of the array.
+#ls[[1, 4, 7]] selects the elements at indices 1, 4, and 7 from the array ls. This corresponds to the second column of the array.
+#ls[[2, 5, 8]] selects the elements at indices 2, 5, and 8 from the array ls. This corresponds to the third column of the array.
+
+
     return {
         'mean': [mean_columns, mean_rowns, ls.mean()],
         'variance': [var_columns, var_rowns, ls.var()],
