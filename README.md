@@ -1,4 +1,2 @@
 # data-analysis
-Welcome!
-
-In this repository, I Will provide some of the projects that I have done.
+Welcome to my GitHub repository dedicated to showcasing my projects in data analysis!
