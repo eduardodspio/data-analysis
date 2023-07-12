@@ -1,6 +1,6 @@
 # Mean-Variance-Standard Deviation Calculator
 
-In this project, the calculator takes as input a list of integers and performs the following calculations:
+In this project, the calculator takes as input a list of integers and performs the following tasks:
 
 Mean: It computes the mean of the numbers, which is the average value derived by adding all of the numbers and dividing by the total number of counts.
 
