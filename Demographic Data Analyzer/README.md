@@ -1,6 +1,6 @@
 # Demographic Data Analyzer
 
-In the Demographic Data Analyzer, was conducted an examination of a supplied dataset comprising demographic data. This project aimed to demonstrate my data manipulation, exploratory data analysis, and visualization abilities. The following are the essential steps I followed to complete this project:
+In the Demographic Data Analyzer, an examination of a supplied dataset comprising demographic data was conducted. This project aimed to demonstrate my data manipulation, exploratory data analysis, and visualization abilities. The following are the essential steps I followed to complete this project:
 
 Data Loading: I imported the dataset into my programming environment using tools like pandas in Python, which allowed me to efficiently access and work with the data.
 
